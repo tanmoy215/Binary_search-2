@@ -36,7 +36,7 @@ int main(){
         cout<<"FALSE";
     }
     else{
-cout<<endl<<"Where "<<endl<<"A is : "<<x<<endl<<"B is : "<<sqrt(y)<<endl;
+cout<<endl<<"Where "<<endl<<"A is : "<<sqrt(x)<<endl<<"B is : "<<sqrt(y)<<endl;
     }
     return 0;
 }
